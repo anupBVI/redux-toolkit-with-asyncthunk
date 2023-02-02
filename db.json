@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Emmett Hodkiewicz",
+      "id": 2
+    },
+    {
+      "name": "Melvin Labadie IV",
+      "id": 3
+    },
+    {
+      "name": "Carlos Treutel",
+      "id": 4
+    },
+    {
+      "name": "Emmett Bode",
+      "id": 5
+    },
+    {
+      "name": "Rosemary Ullrich",
+      "id": 6
+    },
+    {
+      "name": "Mr. Marianne Hettinger",
+      "id": 7
+    },
+    {
+      "name": "Miss Carol Breitenberg",
+      "id": 8
+    },
+    {
+      "name": "Armando Hamill",
+      "id": 9
+    },
+    {
+      "name": "Carlton Bartell",
+      "id": 10
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
