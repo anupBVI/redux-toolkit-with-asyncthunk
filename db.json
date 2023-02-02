@@ -5,42 +5,58 @@
       "name": "Myra"
     },
     {
-      "name": "Emmett Hodkiewicz",
-      "id": 2
-    },
-    {
-      "name": "Melvin Labadie IV",
-      "id": 3
-    },
-    {
-      "name": "Carlos Treutel",
+      "name": "Leland Tremblay",
       "id": 4
     },
     {
-      "name": "Emmett Bode",
+      "name": "Wilfred Abernathy",
       "id": 5
     },
     {
-      "name": "Rosemary Ullrich",
+      "name": "Muriel Davis IV",
       "id": 6
     },
     {
-      "name": "Mr. Marianne Hettinger",
+      "name": "Irene Davis DVM",
       "id": 7
-    },
-    {
-      "name": "Miss Carol Breitenberg",
-      "id": 8
-    },
-    {
-      "name": "Armando Hamill",
-      "id": 9
-    },
-    {
-      "name": "Carlton Bartell",
-      "id": 10
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Plastic Cheese",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Concrete Hat",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Granite Computer",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Refined Wooden Shirt",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Soft Keyboard",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Small Plastic Shirt",
+      "id": 16
+    }
+  ],
   "photos": []
 }
