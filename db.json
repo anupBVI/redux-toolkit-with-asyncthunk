@@ -5,57 +5,28 @@
       "name": "Myra"
     },
     {
-      "name": "Leland Tremblay",
+      "name": "Gary Bayer",
+      "id": 2
+    },
+    {
+      "name": "Johnathan Hudson",
+      "id": 3
+    },
+    {
+      "name": "Melody Lesch",
       "id": 4
-    },
-    {
-      "name": "Wilfred Abernathy",
-      "id": 5
-    },
-    {
-      "name": "Muriel Davis IV",
-      "id": 6
-    },
-    {
-      "name": "Irene Davis DVM",
-      "id": 7
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "userId": 1,
+      "title": "Sleek Plastic Mouse",
+      "id": 1
     },
     {
-      "userId": 1,
-      "title": "Luxurious Plastic Cheese",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Luxurious Concrete Hat",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Granite Computer",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Refined Wooden Shirt",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Soft Keyboard",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Small Plastic Shirt",
-      "id": 16
+      "userId": 2,
+      "title": "Ergonomic Steel Bike",
+      "id": 4
     }
   ],
   "photos": []
