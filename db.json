@@ -13,21 +13,76 @@
       "id": 3
     },
     {
-      "name": "Melody Lesch",
+      "name": "Dr. Stacey Kunze",
       "id": 4
+    },
+    {
+      "name": "Teri Kunde",
+      "id": 5
     }
   ],
   "albums": [
     {
-      "userId": 1,
-      "title": "Sleek Plastic Mouse",
-      "id": 1
-    },
-    {
       "userId": 2,
       "title": "Ergonomic Steel Bike",
       "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Small Rubber Gloves",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Metal Mouse",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "title": "Generic Concrete Soap",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Rubber Sausages",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Plastic Hat",
+      "id": 9
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31325",
+      "id": 1
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20846",
+      "id": 5
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=63055",
+      "id": 6
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=57835",
+      "id": 7
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58497",
+      "id": 8
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67620",
+      "id": 9
+    }
+  ]
 }
